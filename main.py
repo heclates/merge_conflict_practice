@@ -1,6 +1,4 @@
 x = 5
-<<<<<<< HEAD
-=======
 
 
 def sum(n, y=0):
@@ -8,4 +6,3 @@ def sum(n, y=0):
 
 
 print(sum(5, 5))
->>>>>>> conflict/check
